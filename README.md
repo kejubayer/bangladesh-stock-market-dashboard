@@ -77,7 +77,7 @@ A real-time stock market dashboard for **DSE** (Dhaka Stock Exchange) and **CSE*
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
