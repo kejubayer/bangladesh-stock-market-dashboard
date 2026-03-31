@@ -20,9 +20,10 @@ A real-time stock market dashboard for **DSE** (Dhaka Stock Exchange) and **CSE*
 ## Screenshots
 
 ![Dashboard Screenshot](screenshot.png) 
+
 <div style="display: flex; gap: 10px;">
-  <img src="screenshot_dse.png" alt="DSE Screenshot" width="48%">
-  <img src="screenshot_cse.png" alt="CSE Screenshot" width="48%">
+  <img src="screenshot_dse.png" alt="DSE Screenshot" width="50%">
+  <img src="screenshot_cse.png" alt="CSE Screenshot" width="50%">
 </div>
  
 
