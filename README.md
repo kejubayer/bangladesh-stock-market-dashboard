@@ -38,7 +38,6 @@ A real-time stock market dashboard for **DSE** (Dhaka Stock Exchange) and **CSE*
 3. Install dependencies:
     ```bash
     composer install
-    npm install && npm run dev
     ```
 4. Configure environment:
     ```bash
