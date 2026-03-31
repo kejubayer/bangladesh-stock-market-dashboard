@@ -20,7 +20,8 @@ A real-time stock market dashboard for **DSE** (Dhaka Stock Exchange) and **CSE*
 ## Screenshots
 
 ![Dashboard Screenshot](screenshot.png)  
-*Add a screenshot of your dashboard here for better SEO and clarity.*
+![Dashboard Screenshot](screenshot_dse.png)  
+![Dashboard Screenshot](screenshot_cse.png)  
 
 ---
 
